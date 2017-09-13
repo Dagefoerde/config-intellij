@@ -1,0 +1,42 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="fromCursor" value="false" />
+    <option name="FIND_ORIGIN" value="entire_scope" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
+    <recentFileMasks>
+      <mask>mod_forrepositm.php</mask>
+      <mask>r</mask>
+      <mask>re</mask>
+      <mask>rep</mask>
+      <mask>repos</mask>
+      <mask>repos*</mask>
+      <mask>*repos*</mask>
+      <mask>.*repos*</mask>
+      <mask>.*repos.*</mask>
+      <mask>oau</mask>
+      <mask>oauth</mask>
+      <mask>oauth*</mask>
+      <mask>*oauth*</mask>
+      <mask>*.p</mask>
+      <mask>*</mask>
+      <mask>*.,u=</mask>
+      <mask>*.,u</mask>
+      <mask>*.,</mask>
+      <mask>*.</mask>
+      <mask>*.m</mask>
+      <mask>*.mus</mask>
+      <mask>*.must</mask>
+      <mask>*.musta</mask>
+      <mask>*.mustac</mask>
+      <mask>*.mustach</mask>
+      <mask>*.mustache</mask>
+      <mask>p</mask>
+      <mask>php</mask>
+      <mask>*.php</mask>
+      <mask>*.js</mask>
+    </recentFileMasks>
+  </component>
+</application>

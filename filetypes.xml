@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="muli" type="JAVA" />
+      <mapping ext="sty" type="LaTeX file" />
+      <mapping ext="bin" type="PHP" />
+      <mapping pattern="FreeDeclaratorBCode" type="PLAIN_TEXT" />
+      <mapping ext="ast" type="PLAIN_TEXT" />
+      <mapping ext="jrag" type="PLAIN_TEXT" />
+      <mapping ext="parser" type="PLAIN_TEXT" />
+      <mapping ext="jadd" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
