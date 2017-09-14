@@ -5,15 +5,8 @@
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="upgrade.php" />
     <recentFileMasks>
-      <mask>mod_forrepositm.php</mask>
-      <mask>r</mask>
-      <mask>re</mask>
-      <mask>rep</mask>
-      <mask>repos</mask>
-      <mask>repos*</mask>
-      <mask>*repos*</mask>
-      <mask>.*repos*</mask>
       <mask>.*repos.*</mask>
       <mask>oau</mask>
       <mask>oauth</mask>
@@ -36,6 +29,14 @@
       <mask>php</mask>
       <mask>*.php</mask>
       <mask>*.js</mask>
+      <mask>u</mask>
+      <mask>upgr</mask>
+      <mask>upgra</mask>
+      <mask>upgrad</mask>
+      <mask>upgrade.</mask>
+      <mask>upgrade.p</mask>
+      <mask>upgrade.ph</mask>
+      <mask>upgrade.php</mask>
     </recentFileMasks>
   </component>
 </application>
