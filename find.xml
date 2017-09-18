@@ -5,19 +5,8 @@
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="upgrade.php" />
+    <option name="FILE_MASK" value="build.gradle" />
     <recentFileMasks>
-      <mask>.*repos.*</mask>
-      <mask>oau</mask>
-      <mask>oauth</mask>
-      <mask>oauth*</mask>
-      <mask>*oauth*</mask>
-      <mask>*.p</mask>
-      <mask>*</mask>
-      <mask>*.,u=</mask>
-      <mask>*.,u</mask>
-      <mask>*.,</mask>
-      <mask>*.</mask>
       <mask>*.m</mask>
       <mask>*.mus</mask>
       <mask>*.must</mask>
@@ -37,6 +26,17 @@
       <mask>upgrade.p</mask>
       <mask>upgrade.ph</mask>
       <mask>upgrade.php</mask>
+      <mask>bui</mask>
+      <mask>build</mask>
+      <mask>build.</mask>
+      <mask>build.g</mask>
+      <mask>build.gr</mask>
+      <mask>build.gra</mask>
+      <mask>build.gradkle</mask>
+      <mask>build.gradkl</mask>
+      <mask>build.gradk</mask>
+      <mask>build.grad</mask>
+      <mask>build.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
