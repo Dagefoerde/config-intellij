@@ -5,24 +5,8 @@
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>*.m</mask>
-      <mask>*.mus</mask>
-      <mask>*.must</mask>
-      <mask>*.musta</mask>
-      <mask>*.mustac</mask>
-      <mask>*.mustach</mask>
-      <mask>*.mustache</mask>
-      <mask>p</mask>
-      <mask>php</mask>
-      <mask>*.php</mask>
-      <mask>*.js</mask>
-      <mask>u</mask>
-      <mask>upgr</mask>
-      <mask>upgra</mask>
-      <mask>upgrad</mask>
-      <mask>upgrade.</mask>
-      <mask>upgrade.p</mask>
       <mask>upgrade.ph</mask>
       <mask>upgrade.php</mask>
       <mask>bui</mask>
@@ -36,6 +20,23 @@
       <mask>build.gradk</mask>
       <mask>build.grad</mask>
       <mask>build.gradle</mask>
+      <mask>en.p</mask>
+      <mask>en.ph</mask>
+      <mask>en.php</mask>
+      <mask>en.</mask>
+      <mask>en</mask>
+      <mask>c</mask>
+      <mask>core.p</mask>
+      <mask>core.ph</mask>
+      <mask>core.php</mask>
+      <mask>core.</mask>
+      <mask>core</mask>
+      <mask>&amp;</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
