@@ -5,9 +5,8 @@
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>upgrade.ph</mask>
-      <mask>upgrade.php</mask>
       <mask>bui</mask>
       <mask>build</mask>
       <mask>build.</mask>
@@ -31,11 +30,13 @@
       <mask>core.</mask>
       <mask>core</mask>
       <mask>&amp;</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
