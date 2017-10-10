@@ -5,24 +5,13 @@
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>bui</mask>
-      <mask>build</mask>
-      <mask>build.</mask>
-      <mask>build.g</mask>
-      <mask>build.gr</mask>
-      <mask>build.gra</mask>
-      <mask>build.gradkle</mask>
-      <mask>build.gradkl</mask>
-      <mask>build.gradk</mask>
       <mask>build.grad</mask>
       <mask>build.gradle</mask>
       <mask>en.p</mask>
       <mask>en.ph</mask>
       <mask>en.php</mask>
       <mask>en.</mask>
-      <mask>en</mask>
       <mask>c</mask>
       <mask>core.p</mask>
       <mask>core.ph</mask>
@@ -37,6 +26,16 @@
       <mask>*.</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>en</mask>
+      <mask>en/&amp;*</mask>
+      <mask>en/&amp;</mask>
+      <mask>en/</mask>
+      <mask>en/*</mask>
+      <mask>en/*.</mask>
+      <mask>en/*.p</mask>
+      <mask>en/*.ph</mask>
+      <mask>en/*.php</mask>
+      <mask>/en/*.php</mask>
     </recentFileMasks>
   </component>
 </application>
