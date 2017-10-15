@@ -5,11 +5,8 @@
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*.xml</mask>
-      <mask>en</mask>
-      <mask>en/&amp;*</mask>
-      <mask>en/&amp;</mask>
       <mask>en/</mask>
       <mask>en/*</mask>
       <mask>en/*.</mask>
@@ -36,6 +33,10 @@
       <mask>theme</mask>
       <mask>them</mask>
       <mask>the</mask>
+      <mask>*</mask>
+      <mask>*.php</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
