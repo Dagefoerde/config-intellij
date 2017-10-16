@@ -4,6 +4,7 @@
       <mapping ext="muli" type="JAVA" />
       <mapping ext="sty" type="LaTeX file" />
       <mapping ext="bin" type="PHP" />
+      <mapping pattern=".env.deploy" type="PLAIN_TEXT" />
       <mapping pattern="FreeDeclaratorBCode" type="PLAIN_TEXT" />
       <mapping ext="ast" type="PLAIN_TEXT" />
       <mapping ext="jrag" type="PLAIN_TEXT" />
