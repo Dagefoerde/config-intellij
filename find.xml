@@ -5,12 +5,8 @@
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.css" />
     <recentFileMasks>
-      <mask>/en/*.php</mask>
-      <mask>th</mask>
-      <mask>theme/*.php</mask>
-      <mask>theme/*.p</mask>
-      <mask>theme/*.</mask>
       <mask>theme/*/</mask>
       <mask>theme/*/*</mask>
       <mask>theme/*/*.</mask>
@@ -26,9 +22,7 @@
       <mask>theme</mask>
       <mask>them</mask>
       <mask>the</mask>
-      <mask>*</mask>
       <mask>*.php</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
       <mask>mod</mask>
       <mask>modedit.p</mask>
@@ -36,6 +30,13 @@
       <mask>modedit.php</mask>
       <mask>modedit.</mask>
       <mask>modedit</mask>
+      <mask>*</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
+      <mask>*.</mask>
+      <mask>*.c</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
