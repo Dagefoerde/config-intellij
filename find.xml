@@ -6,12 +6,6 @@
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>en/</mask>
-      <mask>en/*</mask>
-      <mask>en/*.</mask>
-      <mask>en/*.p</mask>
-      <mask>en/*.ph</mask>
-      <mask>en/*.php</mask>
       <mask>/en/*.php</mask>
       <mask>th</mask>
       <mask>theme/*.php</mask>
@@ -36,6 +30,12 @@
       <mask>*.php</mask>
       <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>mod</mask>
+      <mask>modedit.p</mask>
+      <mask>modedit.ph</mask>
+      <mask>modedit.php</mask>
+      <mask>modedit.</mask>
+      <mask>modedit</mask>
     </recentFileMasks>
   </component>
 </application>
