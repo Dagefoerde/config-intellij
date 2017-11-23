@@ -7,9 +7,8 @@
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.css" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>theme/*/*.p</mask>
       <mask>theme/*/*.ph</mask>
       <mask>theme/****/*.php</mask>
       <mask>theme/***/*.php</mask>
@@ -22,7 +21,6 @@
       <mask>them</mask>
       <mask>the</mask>
       <mask>*.php</mask>
-      <mask>*.js</mask>
       <mask>mod</mask>
       <mask>modedit.p</mask>
       <mask>modedit.ph</mask>
@@ -39,6 +37,8 @@
       <mask>*.jav</mask>
       <mask>*.java</mask>
       <mask>*.css</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
